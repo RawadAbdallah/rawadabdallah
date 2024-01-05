@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawad Abdallah</h1>
-<h3 align="center">A passionate developer from Lebanon :flag-lb:</h3>
+<h3 align="center">A passionate developer from Lebanon 🇱🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawadabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="rawadabdallah" /> </p>
 
