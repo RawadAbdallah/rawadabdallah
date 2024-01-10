@@ -25,5 +25,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawadabdallah&show_icons=true&locale=en&layout=compact" alt="rawadabdallah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawadabdallah&show_icons=true&locale=en" alt="rawadabdallah" /></p>
+
+<h3 align="left">Hobbies:</h3>
+<p>
+  <ul>
+    <li>Football <img src="https://github.com/RawadAbdallah/rawadabdallah/assets/84904014/0697ae99-1ccb-48e0-a3b2-6d0e0baf0342" width="15" height="15" /></li>
+    <li>Gaming <img src="https://github.com/RawadAbdallah/rawadabdallah/assets/84904014/6ae91348-d0f0-4237-8d1f-e6bb3485a48a" width="25" height="25" /></li>
+  </ul>
+</p>
+
+
 <p align="center"><img src="https://github.com/RawadAbdallah/rawadabdallah/assets/84904014/5ba0f998-8380-491e-a822-42edbd391d84"/> </p>
 
